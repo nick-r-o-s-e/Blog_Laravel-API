@@ -10,7 +10,7 @@
 
 This porject is the backend of a blog management application, built with Laravel. It provides a RESTful API for managing blog posts and interacts with a MySQL database. The API follows best practices for validation, error handling, and database management, making it scalable and maintainable.
 
-### Hosted React Front-end: https://
+### Hosted React Front-end: https://react-project-crud.vercel.app
 
 ## Key Features
 
@@ -42,7 +42,7 @@ This porject is the backend of a blog management application, built with Laravel
 #### Clone the repository:
 
 ```
-git clone https://github.com/nick-r-o-s-e/
+git clone https://github.com/nick-r-o-s-e/Blog_Laravel-API
 ```
 
 #### Install PHP dependencies:
